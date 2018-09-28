@@ -6,8 +6,11 @@ body {
 /* Layout */
 .ba-container {
 	padding: 130px 100px;
-	min-width: 1400px;
-	min-height: 940px;
+}
+
+.ba-page {
+	max-width: 1400px;
+	max-height: 940px;
 	box-shadow: 0px 4px 68px 0px rgba(0, 0, 0, 0.1);
 }
 
